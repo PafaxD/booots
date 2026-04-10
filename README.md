@@ -17,14 +17,6 @@ Bu proje, gönderdiğin yapı isteğine göre hazırlanmış **güvenli altyapı
 - Ana bot için QR oturumu
 - Ek hesaplar için ayrı QR oturumu (`hesap-ekle`)
 
-## Pasif Bırakılanlar
-Aşağıdaki komutlar dosya yapısında mevcut ama **çalışır otomasyon** içermez:
-- `grup-katıl`
-- `grup-ayrıl`
-- `girilmiş-gruplar`
-
-Sebep: çoklu hesapla otomatik grup katılımı / yapay üye artırımı / etkileşim manipülasyonu güvenli değildir ve platform kurallarına aykırı olabilir.
-
 ## Kurulum
 ```bash
 npm install
